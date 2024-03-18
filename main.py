@@ -50,11 +50,7 @@ while game_should_continue:
         game_should_continue = False
         print(f"Sorry, that's wrong. Final Score: {score}")
 
-# Making game repeatable.
 
-# Making the account at position B become the next account at position A.
-
-# Clear the screen between the rounds.
 
 
 
